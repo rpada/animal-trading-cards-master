@@ -1,0 +1,27 @@
+/* add your CSS here */
+#photo{
+    width: 300px;
+    height: 200px;
+    margin-bottom: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:#D3D3D3;
+}
+.card-body{
+    width: 300px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:#D3D3D3;
+    box-shadow: 5px 5px #d4d6d5;
+    padding: 10px
+}
+.list{
+    list-style-type: none;
+    padding-left: 0px;    
+}
+.facts{
+    border-style: solid;
+    border-width: 1px;
+    border-color:#D3D3D3;
+    padding: 10px;
+}
